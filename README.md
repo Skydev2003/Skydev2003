@@ -45,12 +45,11 @@
 
 ## 📊 GitHub Stats
 
-![Skydev2003's GitHub stats](https://github-readme-stats.vercel.app/api?username=Skydev2003&show_icons=true&theme=dracula&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Skydev2003&show_icons=true&theme=dracula&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Skydev2003&layout=compact&theme=dracula&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Skydev2003&layout=compact&theme=dracula&hide_border=true)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Skydev2003&theme=dracula&hide_border=true)
-
 
 <div align="center">
   <br>
