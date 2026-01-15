@@ -45,12 +45,11 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Skydev2003&show_icons=true&theme=dracula&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Skydev2003&show_icons=true&theme=dracula&hide_border=true&cache_seconds=1800)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Skydev2003&layout=compact&theme=dracula&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Skydev2003&layout=compact&theme=dracula&hide_border=true&cache_seconds=1800)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Skydev2003&theme=dracula&hide_border=true)
-
+![GitHub Streak](https://streak-stats.demolab.com?user=Skydev2003&theme=dracula&hide_border=true)
 <div align="center">
   <br>
   <i>"Code is like humor. When you have to explain it, it’s bad."</i>
