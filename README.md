@@ -43,20 +43,13 @@
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Skydev2003&show_icons=true&theme=dracula&hide_border=true&bg_color=0d1117&title_color=ff79c6&icon_color=bd93f9&text_color=f8f8f2" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Skydev2003&layout=compact&theme=dracula&hide_border=true&bg_color=0d1117&title_color=ff79c6&text_color=f8f8f2" height="165"/>
-</p>
+![Skydev2003's GitHub stats](https://github-readme-stats.vercel.app/api?username=Skydev2003&show_icons=true&theme=dracula&hide_border=true)
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Skydev2003&theme=dracula&hide_border=true&background=0d1117"/>
-</p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Skydev2003&layout=compact&theme=dracula&hide_border=true)
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Skydev2003&theme=dracula&no-frame=true&row=1&column=6"/>
-</p>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Skydev2003&theme=dracula&hide_border=true)
 
 
 <div align="center">
