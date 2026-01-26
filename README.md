@@ -14,19 +14,6 @@
 
 ---
 
-### 🧐 About Me
-
-- 🔭 **I’m currently working on:**
-  - **KinrooV2**: A calorie calculation app from photos using Dart.
-  - **WeWeight2**: A weight tracking application.
-- 🌱 **I’m currently learning:**
-  - Advanced **Riverpod** for state management.
-  - **Supabase** for backend database.
-- 🎨 **Hobbies:**
-  - Drawing Anime (Huge fan of **Vegeta** from Dragon Ball! 🐉)
-  - Gaming (Free Fire, RoV, Roblox 🎮)
-
----
 
 ### 🛠️ Tech Stack
 
