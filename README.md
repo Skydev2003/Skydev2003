@@ -1,16 +1,10 @@
 <div align="center">
 
 # Hi there, I'm Sky! 👋
-### 👨‍💻 Flutter Developer
+### FullStack Dev
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" />
 
-<p>
-  I'm a passionate Mobile App Developer from Thailand 🇹🇭<br>
-  Focused on building beautiful and functional applications with <b>Flutter</b>.
-</p>
-
-</div>
 
 ---
 
