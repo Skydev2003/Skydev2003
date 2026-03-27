@@ -27,7 +27,7 @@
 
 ### 📊 My GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" alt="Sky's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Skydev2003&show_icons=true&theme=tokyonight" alt="Sky's GitHub Stats" />
 </p>
 
 ---
