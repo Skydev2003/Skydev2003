@@ -1,12 +1,10 @@
+
 <div align="center">
 
-# Hi there, I'm Sky! 👋
-### 🚀 FullStack Developer (Mobile & Web)
-*Computer and Electronics Engineering Student @ RMUTI*
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,100:7C3AED&height=200&section=header&text=SKY.DEV&fontSize=70&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=FullStack%20Engineer%20%7C%7C%20SYSTEM%202027%20ONLINE&descAlignY=55" />
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="220" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=00F5FF&center=true&vCenter=true&width=700&height=50&lines=Hi+there%2C+I'm+Sky+%F0%9F%91%8B;FullStack+Dev+%7C+Mobile+%26+Web;Computer+Eng+%40+RMUTI;Building+for+2027" alt="Typing" />
 
----
 
 ### 🛠️ Tech Stack
 
