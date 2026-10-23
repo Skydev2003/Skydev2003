@@ -6,7 +6,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=00F5FF&center=true&vCenter=true&width=700&height=50&lines=Hi+there%2C+I'm+Sky+%F0%9F%91%8B;FullStack+Dev+%7C+Mobile+%26+Web;Computer+Eng+%40+RMUTI;Building+for+2027" alt="Typing" />
 
 
-### 🛠️ Tech Stack
+###  Tech Stack
 
 **Mobile Development**
 <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" /> <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
@@ -22,7 +22,7 @@
 
 ---
 
-### 📊 My GitHub Stats
+###  My GitHub Stats
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Skydev2003&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
